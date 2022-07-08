@@ -1,0 +1,14 @@
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.exe
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.deps.json
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.runtimeconfig.json
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.runtimeconfig.dev.json
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.dll
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\bin\Debug\netcoreapp3.1\ProjetoYago.pdb
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.csproj.AssemblyReference.cache
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.dll
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.pdb
+C:\Users\vinic\source\repos\ProjetoYago\ProjetoYago\obj\Debug\netcoreapp3.1\ProjetoYago.genruntimeconfig.cache
